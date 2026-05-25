@@ -18,7 +18,7 @@ Este apartado detalla mi plan de estudio y aplicación práctica en Excel, divid
 | Archivo / Proyecto | Origen / Contexto | Conocimientos Puestos en Práctica | Estado |
 | :--- | :--- | :--- | :--- |
 | `📁 PrimerEj_Excel_Ingr_Egr.xlsx` | Prácticas Iniciales | Estructuración de libros multi-hoja, referencias relativas y absolutas, formatos de celda, listas de datos y fórmulas inter-hojas para reportes mensuales y consolidación de totales. | ✅ Completado |
-| `📁 nombre_archivo.xlsx` | [Origen / Curso] | [Fórmulas, herramientas o lógica utilizada] | Pendiente |
+| `📁 SegundoEJ_Excel_Empleados.xlsx` | Prácticas Iniciales | Conversión de rangos a Tablas de Excel, técnicas de limpieza de datos (eliminación de duplicados, búsqueda y reemplazo), validación de datos por lista y segmentación de datos interactiva. | ✅ Completado |
 | `📁 proyecto_final.xlsx` | Proyecto Final (Kaggle) | [Breve descripción del análisis general] | Pendiente |
 
 ---
