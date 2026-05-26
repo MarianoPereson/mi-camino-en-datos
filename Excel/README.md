@@ -1,6 +1,6 @@
 # 🗺️ Hoja de Ruta: Especialización en Excel
 
-## 📝 Resumen (Abstract)
+## 📝 Resumen 
 Este apartado detalla mi plan de estudio y aplicación práctica en Excel, dividido en tres etapas: validación de conceptos clave a través de prácticas guiadas, certificación externa de herramientas avanzadas y desarrollo de un proyecto final autónomo. La meta es demostrar un dominio integral de la herramienta, aplicando metodologías eficientes de filtrado, procesamiento y visualización de datos en escenarios laborales reales.
 
 ---
@@ -19,6 +19,7 @@ Este apartado detalla mi plan de estudio y aplicación práctica en Excel, divid
 | :--- | :--- | :--- | :--- |
 | `📁 PrimerEj_Excel_Ingr_Egr.xlsx` | Prácticas Iniciales | Estructuración de libros multi-hoja, referencias relativas y absolutas, formatos de celda, listas de datos y fórmulas inter-hojas para reportes mensuales y consolidación de totales. | ✅ Completado |
 | `📁 SegundoEJ_Excel_Empleados.xlsx` | Prácticas Iniciales | Conversión de rangos a Tablas de Excel, técnicas de limpieza de datos (eliminación de duplicados, búsqueda y reemplazo), validación de datos por lista y segmentación de datos interactiva. | ✅ Completado |
+| `📁 TercerEj_Excel_Graf.xlsx` | Prácticas Iniciales | Creación, personalización y edición de gráficos estáticos para la representación clara de datos, e implementación de minigráficos en celdas para el análisis visual de tendencias rápidas. | ✅ Completado |
 | `📁 proyecto_final.xlsx` | Proyecto Final (Kaggle) | [Breve descripción del análisis general] | Pendiente |
 
 ---
